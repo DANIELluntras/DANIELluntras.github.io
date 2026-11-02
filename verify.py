@@ -3,7 +3,7 @@ from html.parser import HTMLParser
 
 root = Path(__file__).parent
 pages = sorted((root / "proiecte").glob("*.html"))
-assert len(pages) == 17, f"Expected 17 pages, found {len(pages)}"
+assert len(pages) == 20, f"Expected 20 pages, found {len(pages)}"
 
 class Links(HTMLParser):
     def __init__(self):

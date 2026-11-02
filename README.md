@@ -4,7 +4,7 @@ Catalog în limba română pentru proiectele găsite în spațiul de lucru al ac
 
 ## Conținut
 
-- 17 pagini de proiect, cu descrieri bazate pe fișierele locale.
+- 20 pagini de proiect, cu descrieri bazate pe fișierele locale.
 - Linkuri către variantele publice și repository-urile confirmate.
 - Atribuire explicită pentru repository-urile de origine aflate în alte conturi.
 - Design adaptat pentru telefon și desktop.
